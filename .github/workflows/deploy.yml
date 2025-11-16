@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: siddhantsirohi2/devopsproject
+  IMAGE_NAME: siddhantsirohi/devopsproject
 
 jobs:
   build-and-deploy:
