@@ -55,7 +55,7 @@ app.get('/', (req, res) => {
       <div class="card">
         <h1>System Resource Monitor</h1>
         <p>Your full-stack monitoring app is running and ready to track server metrics in real-time.</p>
-        <div class="status">✅ Service is LIVE</div>
+        <div class="status">✅ Service is LIVE!!!!</div>
       </div>
     </body>
     </html>
